@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 18 18" class="dark-svg" xml:space="preserve">
+  <style type="text/css">
+    .dark-svg {
+      enable-background:new 0 0 18 18;
+      background-color: hsl(220deg 26% 14%);
+    }
+    .dark-rect {
+      fill: rgb(82, 80, 105);
+    }
+  </style>
+  <rect x="8.5" y="8.5" class="dark-rect" width="1" height="1" />
+</svg>
